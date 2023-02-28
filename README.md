@@ -14,3 +14,6 @@
 
 ## Screenshots
 ![Screenshot da tela do formulário do AluraBooks](https://imgur.com/bupnUfx.png)
+
+## Teste o projeto publicado
+* https://jucimario.github.io/js-consumindo-dados-api/
